@@ -1,6 +1,6 @@
-token=NDk0NTk4MzY3OTYwMjM2MDMy.Do15fA.oPYv4LBJQ9cieyKj_nvtpp3Rnbc
-owner=485579083649122304
-prefix=2
-game=Type 2Play | 2Help
+token=NTA3MzE2MzcyNzA4MjYxODg4.Dru7FA.2hg4N3xxnyO7Xku9nJyMYGJWXKo
+owner=257804689268146177
+prefix=P-
+game='.Music PuBg.'
 stayinchannel=true
 songinstatus=true

@@ -1,6 +1,6 @@
-token=NTA3MzE2MzcyNzA4MjYxODg4.Dru7FA.2hg4N3xxnyO7Xku9nJyMYGJWXKo
-owner=257804689268146177
-prefix=P-
-game='.Music PuBg.'
+token=NTA4NzM5Mjk0Mzg3NzY1MjU5.DsDoNg.84x4Wn3KoacoZtyQWes6RKmcpu4
+owner=414053523089653760
+prefix=S
+game=! Sєєℓνr ⁹⁹☕
 stayinchannel=true
 songinstatus=true
